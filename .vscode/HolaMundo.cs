@@ -10,7 +10,8 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola Mundo");
+            Console.WriteLine("Este es el ejercicio de la sección 1"); //Inserta salto de línea
+            Console.Write("Hola Mundo"); // Write, no inserta salto de línea
 
             Console.ReadKey();
             
